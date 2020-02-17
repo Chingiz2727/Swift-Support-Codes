@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A457217423FA63AC007C1CAE /* Scrolling+StackView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A457217323FA63AC007C1CAE /* Scrolling+StackView.swift */; };
 		A4A6A6B023FA56B900EC5754 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4A6A6AF23FA56B900EC5754 /* AppDelegate.swift */; };
 		A4A6A6B223FA56B900EC5754 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4A6A6B123FA56B900EC5754 /* SceneDelegate.swift */; };
 		A4A6A6B423FA56B900EC5754 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4A6A6B323FA56B900EC5754 /* ViewController.swift */; };
@@ -56,6 +57,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		A457217323FA63AC007C1CAE /* Scrolling+StackView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Scrolling+StackView.swift"; sourceTree = "<group>"; };
 		A4A6A6AC23FA56B900EC5754 /* Swift Support Codes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Swift Support Codes.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A4A6A6AF23FA56B900EC5754 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A4A6A6B123FA56B900EC5754 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -251,6 +253,7 @@
 			isa = PBXGroup;
 			children = (
 				A4A6A70F23FA5AB100EC5754 /* CollectionView Cell Layout.swift */,
+				A457217323FA63AC007C1CAE /* Scrolling+StackView.swift */,
 			);
 			path = "TableView + CollectionView Layouts";
 			sourceTree = "<group>";
@@ -410,6 +413,7 @@
 				A4A6A70223FA58C800EC5754 /* Extension + RotateView.swift in Sources */,
 				A4A6A6F323FA57F800EC5754 /* MakeNetwork.swift in Sources */,
 				A4A6A6B223FA56B900EC5754 /* SceneDelegate.swift in Sources */,
+				A457217423FA63AC007C1CAE /* Scrolling+StackView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
